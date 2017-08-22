@@ -19,6 +19,7 @@ Installation:
 -------------
 * You will need to set up Raspberry Pi W Zero image (kernel higher or equal 4.12.0-rc3+) and either wifi or uart connection
 * See setup instructions over here for Raspberry Pi W Zero : https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview
+* Example image ready for testing available at: https://revskills.de/usbemulator.zip
 
 Usage:
 ------
