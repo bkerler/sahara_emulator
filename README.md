@@ -12,13 +12,13 @@ to decrypt sahara loaders without mobile hardware :)
 * start.sh  : Start emulation
 * dev/sahara.py : QC Sahara emulation implementation
 
-Tested using python 3.6 and raspberry pi W Zero
+Tested using python 3.6 and Raspberry Pi W Zero
 
 
 Installation:
 -------------
-* You will need to set up raspberry pi w zero image (kernel higher or equal 4.12.0-rc3+) and either wifi or uart connection
-* See setup instructions over here for raspberry pi w zero : https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview
+* You will need to set up Raspberry Pi W Zero image (kernel higher or equal 4.12.0-rc3+) and either wifi or uart connection
+* See setup instructions over here for Raspberry Pi W Zero : https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview
 
 Usage:
 ------
@@ -28,4 +28,4 @@ Usage:
 
 License:
 -------- 
-Share, modify and use as you like, but refer the original author !
+Share, modify and use as you like, but refer to the original author !
